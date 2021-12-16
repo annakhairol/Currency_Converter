@@ -1,3 +1,3 @@
 # Currency_Converter
 
-A simple java program which convert few countries currencies
+A simple GUI java program which convert few countries currencies
